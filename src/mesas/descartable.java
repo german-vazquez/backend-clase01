@@ -1,5 +1,5 @@
 package mesas;
 
 public class descartable {
-    "esta es una clase solo para experimentar con git en vinculacion con intellij""
+    String frase= "esta es una clase solo para experimentar con git en vinculacion con intellij";
 }
